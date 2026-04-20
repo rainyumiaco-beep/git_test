@@ -1,2 +1,2 @@
-# git_test
+# ODIN PROJECT JOURNEY
 Hello Odin! Hello Kimberly!
